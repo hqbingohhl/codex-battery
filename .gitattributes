@@ -1,0 +1,7 @@
+*.cmd text eol=crlf
+*.sh text eol=lf
+*.swift text eol=lf
+*.cs text eol=lf
+*.png binary
+*.ico binary
+*.ttf binary
